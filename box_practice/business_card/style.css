@@ -1,0 +1,32 @@
+html {
+  box-sizing: border-box;
+  font-family: "Times New Roman", "Arial", sans-serif;
+}
+
+.frame {
+  background-color: lightgray;
+  padding: 4px;
+  border: solid darkgray 5px;
+  width: 450px;
+  height: 260px;
+}
+
+.name {
+  margin-left: 8px;
+}
+
+.contact {
+  margin-top: 28px;
+  margin-left: 8px;
+}
+
+p {
+  margin-top: 24px;
+}
+
+img {
+  width: 80px;
+  float: right;
+  margin-right: 24px;
+  margin-top: -28px;
+}
